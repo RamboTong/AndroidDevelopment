@@ -45,6 +45,10 @@ JDK的安装目录，如：D:\Java8\jdk
 ## 碰到的问题  
 ### 1、Android Studio修改安装目录后，提示安装路径有问题，不允许安装  
 进行如下修改  
-![](https://github.com/RamboTong/AndroidDevelopment/blob/master/Android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/pic/as00.png)
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/Android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/pic/as00.png)  
 
+### 2、安装好Android Studio出现如下异常  
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/Android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/pic/as01.png)
+ 
+直接点击取消即可。之后会提示安装component,其实就是安装sdk到默认路径，可以取消这次安装，因为sdk之前是安装好的。  
 
