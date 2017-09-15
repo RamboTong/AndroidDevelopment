@@ -33,7 +33,7 @@ JDK的安装目录，如：D:\Java8\jdk
 
 ### 2、android工具的环境变量  
 1）添加环境变量ANDROID_HOME  
-JDK的安装目录，如：D:\Java8\jdk  
+SDK的安装目录，如：D:\Android\sdk  
 如：adb等  
 
 ### 3、修改环境变量path  
