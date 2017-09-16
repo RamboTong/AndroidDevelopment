@@ -7,25 +7,33 @@
 ## 步骤  
 ### 1、初始化RN 项目，HelloWorldRN  
 执行命令:react-native init HelloWorldRN  
-
-期间会安装jest
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn05.png)
+  
+期间会自动安装jest  
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn06.png)
+  
 
 创建项目成功后:  
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn07.png)  
 
 
 ### 2、运行项目
 2.1 查看当前连接的设备  
-执行命令:adb devices    
+执行命令:adb devices   
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn08.png)   
+  
+2.2 切换到项目目录，如C:\Users\tong_\HelloWorldRN    
 
-2.2 切换到项目目录，如C:\Users\tong_\HelloWorldRN  
-执行命令: npm install
 
 2.3 运行程序到设备上  
 执行命令:react-native run-android （device name）
+期间会下载和解压gralde  
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn09.png)  
 
-期间会下载和解压gralde
-
-
-还会下载一些其他构建工具  
-
+还会下载一些其他构建工具 ,都是自动下载的 
+  
 在build期间，node会构建module，会弹出node的命令框  
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn10.png)  
+
+构建成功后，会运行程序到设备上  
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn11.png)
