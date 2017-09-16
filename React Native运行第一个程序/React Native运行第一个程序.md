@@ -39,8 +39,12 @@
 ![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn11.png)
 
 
+2.4运行效果  
+![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn13.PNG)
+
 ## 碰到的问题
 1、react-native run-android执行失败，如下:  
 ![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn12.png)  
 
-因为npm没有install，执行上面的命令需要在项目的根目录下执行，如2.2步骤
+因为npm没有install，执行上面的命令需要在项目的根目录下执行，如2.2步骤  
+
