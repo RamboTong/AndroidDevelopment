@@ -32,7 +32,7 @@
 
 还会下载一些其他构建工具 ,都是自动下载的 
   
-在build期间，node会构建module，会弹出node的命令框  
+在build后，会弹出node的命令框  
 ![](https://github.com/RamboTong/AndroidDevelopment/blob/master/React%20Native%E8%BF%90%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/pic/rn10.png)  
 
 构建成功后，会运行程序到设备上  
