@@ -11,5 +11,5 @@
 * React Native开发工具WebStorm使用
 * git项目管理、协同开发
 * RN app架构设计
-* RN 技术点记录（界面布局、事件监听、界面跳转、数据存储）
+* RN 技术点记录
 * app上架
