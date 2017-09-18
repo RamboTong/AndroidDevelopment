@@ -18,7 +18,7 @@ WebStorm-2017.2.4
 3.2完成配置  
 ![](https://github.com/RamboTong/MobileDevelopment/blob/master/04React%20Native%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7WebStorm/pic/ws05.png)  
 
-3.3同意
+3.3同意  
 ![](https://github.com/RamboTong/MobileDevelopment/blob/master/04React%20Native%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7WebStorm/pic/ws06.png)  
 
 ## 破解激活
