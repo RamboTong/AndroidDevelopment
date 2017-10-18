@@ -8,21 +8,21 @@
 ![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn04.png)    
 
 所以，切记下拉选择  
-![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%26SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn05.png)  
+![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn05.png)  
 
 安装完成后，对应目录有svn.exe  
-![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%26SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn07.png)
+![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn07.png)
 
 ## 2、webstorm中添加subversion插件
 ### 2.1查找插件并安装
-![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%26SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn01.png)  
+![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn01.png)  
 重启  
-![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%26SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn02.png)  
+![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn02.png)  
 
 ### 2.2关联command-line工具
-![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%26SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn06.png)  
+![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn06.png)  
 
 如果没有关联command-line，可能有如下错误  
-![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%26SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn03.png)
+![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn03.png)
 
 参考：[AndroidStudio遇到奇葩SVN问题的解决方案](http://blog.csdn.net/asmcvc/article/details/48160153)
