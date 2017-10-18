@@ -9,7 +9,7 @@
 * 创建React Native项目及运行  
 * React Native项目结构基础知识
 * React Native开发工具WebStorm使用
-* git项目管理、协同开发
+* git & SVN 项目管理、协同开发
 * RN app架构设计
 * RN 技术点记录
 * 测试
