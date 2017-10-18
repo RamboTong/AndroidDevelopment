@@ -5,7 +5,7 @@
 
 注意：
 客户端的安装默认没有勾选command-line工具    
-![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%26SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn04.png)    
+![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn04.png)    
 
 所以，切记下拉选择  
 ![](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%26SVN%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/pic/svn05.png)  
