@@ -4,10 +4,10 @@
 
 ## 1、属性定义
 ### 1.1属性默认值
-`static defaultPorps{  
-prop-name1:prop-value1, 
-prop-name2:prop-value2,
-prop-name3:prop-value3
+`static defaultPorps{    
+prop-name1:prop-value1,   
+prop-name2:prop-value2,  
+prop-name3:prop-value3  
 }
 `
 
