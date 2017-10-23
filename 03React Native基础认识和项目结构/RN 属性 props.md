@@ -2,6 +2,7 @@
 > Most components can be customized when they are created, with different parameters. These creation parameters are called props.
 
 > 描述组件特征的叫属性，一般是父组件传递给子组件的。
+> 只读
 
 
 ## 1、属性定义
