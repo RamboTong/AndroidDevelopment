@@ -1,6 +1,6 @@
 # React Native state
-> 状态机，改变UI。  
-> 可读可写
+>  state实现组件的动态刷新  
+>  可读可写
 
 
 ## 1、属性定义
@@ -23,6 +23,7 @@ state-name:state-value,
 `
 
 ## 2、使用技巧
+通过this.setState()方法来更新state，调用该方法后，React会重新渲染相关的UI。  
 `
 this.setState({
 this.state.state-name:state-value-update
