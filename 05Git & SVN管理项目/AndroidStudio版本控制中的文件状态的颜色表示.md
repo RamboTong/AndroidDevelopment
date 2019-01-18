@@ -3,7 +3,7 @@
 快捷键（`Ctr + Alt + S`）打开项目中的设置，搜索 File Status Color 即可查询到文件不同状态对应的颜色，默认设置如下图：  
 ![File Status Color](https://github.com/RamboTong/MobileDevelopment/blob/master/05Git%20%26%20SVN管理项目/pic/file_status_color.png)
 
-<tr bgcolor=#000000>
+
 <font color=#6897BB>Modified-文件被修改</font>    
 <font color=#629755>Added-新增文件</font>  
 <font color=#629755>Added in not active changelist-在无效的变更记录中新增文件</font>  
@@ -30,7 +30,7 @@
 <font color=#FFFFFF>Switched-被切换的文件</font>   
 <font color=#FFFFFF>Up to date-最新的</font>   
 <font color=#FFFFFF>Hijacked-文件被修改</font>  
-</tr>
+
  
 
 [参考：CSDN-markdown编辑器语法——字体、字号与颜色](https://blog.csdn.net/testcs_dn/article/details/45719357/)  
